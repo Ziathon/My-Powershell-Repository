@@ -1,0 +1,14 @@
+Add-AzureAccount
+
+
+' Shows Azure Subscription details '
+
+Get-AzureSubscription
+
+' Get Details of Azure VM in Subscription '
+
+Get-AzureVM 
+
+
+Stop-AzureVM -Name -ServiceName
+Start-AzureVM -Name -ServiceName

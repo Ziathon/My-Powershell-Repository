@@ -1,0 +1,33 @@
+SQL CLustering - ive no knowledge - Just awarness of technologies
+
+Networking - need another engineer to perform
+
+Defined networking needs to be agreed prior to start of ANY Azure worksVP. such as ip range, subnets etc- Referance previous job if needed
+
+Happy with O365 migration - Synced identity no need for federation - Exchange 2010 so hybrid then migrate - change dns records - remove hybrid
+
+Password hash sync to be turned on to allow a single username and password login for all services
+
+Domain funcitonal level raise to 2012 
+
+routable UPN suffix needs adding
+
+Everything in avalibility sets (Obviously)
+
+Seperate RDS servers for relevant departments in their own avalibility sets
+
+Load balancing  - RDS servers done on the conneciton broker
+
+Set up in UK Azure DC? have to check costings 
+
+Express Route 100 mb - have to be done first due to potential lead time 
+
+VPN's no issue can be setup at any stage as we'll have access to routers
+
+DFS name spaces no issue.
+
+On Prem Roles - DC, DFS, DNS, Print (but only if enough devices require it)
+
+External DNS most certainly need access! 
+
+RDS server cals!

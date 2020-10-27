@@ -1,0 +1,8 @@
+conquest
+Password1
+
+vpn.clarkcontracts.com
+
+cc-domain.local
+
+cc-paes-db-001 - 10.0.0.29
